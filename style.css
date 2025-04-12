@@ -61,8 +61,10 @@ html {
 
 .card__text-title {
     font-size: var(--f-size-bold);
+    font-weight: 800;
 }
 
 .card__text-p {
     font-size: var(--f-size-regular);
+    font-weight: 200;
 }
