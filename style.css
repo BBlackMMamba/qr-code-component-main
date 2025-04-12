@@ -62,10 +62,13 @@ html {
 
 .card__text-title {
     font-size: var(--f-size-bold);
+    line-height: 120%;
     font-weight: 800;
 }
 
 .card__text-p {
     font-size: var(--f-size-regular);
+    line-height: 140%;
     font-weight: 200;
+    letter-spacing: .02rem;
 }
