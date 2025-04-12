@@ -54,6 +54,7 @@ html {
 
 .card__text {
     padding-top: 0;  
+    margin-bottom: .8rem;
     text-align: center;
     gap: 1.6rem;
     
